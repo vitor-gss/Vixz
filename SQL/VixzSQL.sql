@@ -174,5 +174,10 @@ create table clienteCurso(
 );
 
 insert into clientecurso values("1234-FS", "444.321.564-56");
+insert into clientecurso values("1234-FS", "140.428.114-13");
+insert into clientecurso values("1234-FS", "396.214.562-03");
+insert into clientecurso values("1568-ZQ", "444.321.564-56");
+insert into clientecurso values("1568-ZQ", "396.214.562-03");
+insert into clientecurso values("0002-XX", "444.321.564-56");
 
 
